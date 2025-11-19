@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0:
+	box-sizing: border-box;
+	font-family: Ariel, Helvetica, Sans serif;
+}
+
+header, footer{
+	background-color: #ooo;
+	color: #fff;
+	width: 100%;
+	padding-top:0;
+}
+
+footer{
+	bottom: 0;
+	text-align: center;
+	font-size: 22px;
+	padding: 20px 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
